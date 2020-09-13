@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1574521534 source:f:\alex\progetti c\vsgl2\vsgl2.cpp
+	<iostream>
+	<map>
+	"version.h"
+	"vsgl2.h"
+
+1574520188 f:\alex\progetti c\vsgl2\vsgl2.h
+	<string>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"vsgl2_keycode.h"
+
+1479406513 source:f:\alex\progetti c\vsgl2\main.cpp
+	<iostream>
+	"vsgl2.h"
+
+1479477057 source:f:\alex\progetti c\vsgl2\myapps\example\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+
+1498836408 f:\alex\progetti c\vsgl2\version.h
+
+1511858786 source:f:\alex\progetti c\vsgl2\lessons\0000_window_creation\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+
+1548944522 f:\alex\progetti c\vsgl2\vsgl2_keycode.h
+
+1578731442 source:f:\alex\progetti c\vsgl2\myapps\simple_game_with_array\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+

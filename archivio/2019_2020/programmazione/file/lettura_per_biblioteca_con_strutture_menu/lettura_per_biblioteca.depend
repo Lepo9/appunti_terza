@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589794531 source:c:\users\alex_2\desktop\appunti\terza\programmazione\file\lettura_per_biblioteca\main.cpp
+	<iostream>
+	<fstream>
+
+1589795519 source:c:\users\alex_2\desktop\appunti\terza\programmazione\file\lettura_per_biblioteca_con_strutture\main.cpp
+	<iostream>
+	<fstream>
+
+1589884472 source:c:\users\alex_2\desktop\appunti\terza\programmazione\file\lettura_per_biblioteca_con_strutture_menu\main.cpp
+	<iostream>
+	<fstream>
+

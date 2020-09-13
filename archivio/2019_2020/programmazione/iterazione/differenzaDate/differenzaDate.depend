@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572869964 source:c:\users\71487617\desktop\nuova cartella\differenzadate\main.cpp
+	<iostream>
+
+1572898330 source:c:\users\dania\onedrive\desktop\differenzadate\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<cstdlib>
+

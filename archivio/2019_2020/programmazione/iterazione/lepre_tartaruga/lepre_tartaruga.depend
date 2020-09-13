@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511188983 source:c:\users\alex_2\desktop\lepre_tartaruga\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1511189875 source:c:\users\alex_2\desktop\lepre_tartaruga_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1515360892 source:f:\da guardare 2\lepre_tartaruga_cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+

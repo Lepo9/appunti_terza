@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584005728 source:c:\users\alex_2\desktop\appunti\terza\programmazione\stringhe\esempio_codice_fiscale\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+

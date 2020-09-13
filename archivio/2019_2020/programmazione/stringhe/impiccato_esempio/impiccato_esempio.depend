@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584002184 source:c:\users\alex_2\desktop\appunti\terza\programmazione\stringhe\impiccato_esempio\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<string>
+

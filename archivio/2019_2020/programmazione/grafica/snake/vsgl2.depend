@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1590143167 source:f:\alex\progetti c\vsgl2\vsgl2.cpp
+	<iostream>
+	<map>
+	"version.h"
+	"vsgl2.h"
+
+1590076173 f:\alex\progetti c\vsgl2\version.h
+
+1590076173 f:\alex\progetti c\vsgl2\vsgl2.h
+	<string>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"vsgl2_keycode.h"
+
+1548948122 f:\alex\progetti c\vsgl2\vsgl2_keycode.h
+
+1488289156 source:f:\alex\progetti c\vsgl2\lessons\1001_snake\main.cpp
+	<iostream>
+	<ctime>
+	"../../vsgl2.h"
+
+1590848647 source:f:\alex\progetti c\vsgl2\myapps\snake\main.cpp
+	<iostream>
+	<ctime>
+	"../../vsgl2.h"
+

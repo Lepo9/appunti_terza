@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1590143167 source:f:\alex\progetti c\vsgl2\vsgl2.cpp
+	<iostream>
+	<map>
+	"version.h"
+	"vsgl2.h"
+
+1590076173 f:\alex\progetti c\vsgl2\vsgl2.h
+	<string>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_net.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"vsgl2_keycode.h"
+
+1479406513 source:f:\alex\progetti c\vsgl2\main.cpp
+	<iostream>
+	"vsgl2.h"
+
+1479477057 source:f:\alex\progetti c\vsgl2\myapps\example\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+
+1590076173 f:\alex\progetti c\vsgl2\version.h
+
+1548948122 f:\alex\progetti c\vsgl2\vsgl2_keycode.h
+
+1481037275 source:f:\alex\progetti c\vsgl2\lessons\0020_drawing_images\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+
+1484778018 source:f:\alex\progetti c\vsgl2\lessons\0200_true_type_font_hello_world\main.cpp
+	<iostream>
+	"../../vsgl2.h"
+
+1487524574 source:f:\alex\progetti c\vsgl2\lessons\0300_mouse_movements\main.cpp
+	<iostream>
+	<cstdio>
+	"../../vsgl2.h"
+
+1542817245 source:f:\alex\progetti c\vsgl2\lessons\0350_guess_the_card\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+	"../../vsgl2.h"
+
+1591350550 source:f:\alex\progetti c\vsgl2\myapps\wall_builder\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<ctime>
+	"../../vsgl2.h"
+

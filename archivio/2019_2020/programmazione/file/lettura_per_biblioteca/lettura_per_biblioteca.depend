@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589794531 source:c:\users\alex_2\desktop\appunti\terza\programmazione\file\lettura_per_biblioteca\main.cpp
+	<iostream>
+	<fstream>
+

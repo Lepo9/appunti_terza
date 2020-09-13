@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585082057 source:f:\alex\progetti c\stringhe\stringhe_c++\main.cpp
+	<iostream>
+	<sstream>
+
