@@ -1,0 +1,5 @@
+PROG main
+	IN costo
+	ASSIGN costo_scontato = costo * 0.7
+	OUT costo_scontato
+END PROG //main
