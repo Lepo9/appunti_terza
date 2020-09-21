@@ -1,0 +1,11 @@
+PROG main
+	IN voto
+	IF voto < 6
+		OUT "Non è sufficiente"
+	ELSE //if voto < 6
+	END IF //voto < 6
+	IF voto >= 6
+		OUT "Sufficiente"
+	ELSE //if voto >= 6
+	END IF //voto >= 6
+END PROG //main
