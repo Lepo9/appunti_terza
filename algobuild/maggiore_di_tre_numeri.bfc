@@ -1,4 +1,4 @@
-PROG main
+PROG da completare
 	IN a
 	IN b
 	IN c
@@ -19,4 +19,4 @@ PROG main
 		OUT a
 	ELSE //if a > b && a > c
 	END IF //a > b && a > c
-END PROG //main
+END PROG //da completare
