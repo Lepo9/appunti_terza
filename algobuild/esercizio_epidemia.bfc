@@ -1,0 +1,11 @@
+PROG main
+	IN persone
+	IN giorni
+	ASSIGN contagiati = 0
+	ASSIGN giorni_passati = 0
+	WHILE giorni_passati < giorni
+		ASSIGN contagiati = contagiati + 1
+		ASSIGN giorni_passati = giorni_passati + 1
+	END WHILE //giorni_passati < giorni
+	OUT contagiati
+END PROG //main
