@@ -1,0 +1,12 @@
+PROG main
+	IN valore
+	ASSIGN somma = 0
+	ASSIGN quanti = 0
+	WHILE valore != 0
+		ASSIGN somma = somma + valore
+		ASSIGN quanti = quanti + 1
+		IN valore
+	END WHILE //valore != 0
+	OUT quanti
+	OUT somma
+END PROG //main
