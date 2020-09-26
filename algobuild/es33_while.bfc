@@ -1,0 +1,14 @@
+PROG main
+	IN k
+	IN n
+	ASSIGN contatore = 0
+	WHILE n > 0
+		IN valore
+		IF valore > k
+			ASSIGN contatore = contatore + 1
+		ELSE //if valore > k
+		END IF //valore > k
+		ASSIGN n =  n - 1
+	END WHILE //n > 0
+	OUT contatore
+END PROG //main
