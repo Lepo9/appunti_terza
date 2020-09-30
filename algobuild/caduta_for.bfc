@@ -1,0 +1,9 @@
+PROG main
+	IN h
+	ASSIGN s = 0
+	FOR t=0; h>s; t=t+0.01
+		OUT t
+		OUT h-s
+		ASSIGN s=0.5*9.81*t*t
+	END FOR //t=0; h>s; t=t+0.01
+END PROG //main

@@ -1,0 +1,10 @@
+PROG main
+	IN millenni
+	IN massa
+	ASSIGN massa_iniziale = massa
+	FOR i = 0; i < millenni; i = i + 1
+		ASSIGN massa = massa / 2
+	END FOR //i = 0; i < millenni; i = i + 1
+	OUT massa
+	OUT massa_iniziale - massa
+END PROG //main
